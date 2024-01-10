@@ -1,1 +1,1 @@
-# Slides
+# Slides of the Web Programming 1402-1 course
